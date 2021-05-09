@@ -4,6 +4,6 @@ I have added all the c++ codes in sequence acoording to various resources like c
 ## CONTENT
 
 ### PROGRAMMING FUNDAMENTALS
-*[VAN NEUMANN LOVES BINARY](Launchpad-CPP/Fundamentals/Van_Neumann_loves_Binary.cpp)
+* [VAN NEUMANN LOVES BINARY](./Fundamentals/Van_Neumann_loves_Binary.cpp)
 
 
