@@ -4,7 +4,7 @@ I have added all the c++ codes in sequence acoording to various resources like c
 ## CONTENT
 
 ### PROGRAMMING FUNDAMENTALS
-* [VAN NEUMANN LOVES BINARY](./Fundamentals/Van_Neumann_loves_Binary.cpp)
+* [VAN NEUMANN LOVES BINARY](./Fundamentals/Van_Neumann_loves_Binary.cpp) : (https://hack.codingblocks.com/app/contests/1030/219/problem)
 * [PYTHAGORAS TRIPLET](./Fundamentals/pythagoras_triplet.cpp)
 * [CONVERSION(F TO C](./Fundamentals/Conversion_F_to_C.cpp)
 * [PRINT SERIES](./Fundamentals/Print_Series.cpp)
