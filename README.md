@@ -11,7 +11,7 @@ I have added all the c++ codes in sequence acoording to various resources like c
 * [DELHI’S ODD EVEN](./Fundamentals/Delhi_Odd_Even.cpp): [HACKERBLOCKS LINK](https://hack.codingblocks.com/app/contests/1030/853/problem)
 * [HELP RAMU](./Fundamentals/Help_Ramu.cpp): [HACKERBLOCKS LINK](https://hack.codingblocks.com/app/contests/1030/1089/problem)
 * [BASIC CALCULATOR](./Fundamentals/Basic_Calculator.cpp): [HACKERBLOCKS LINK](https://hack.codingblocks.com/app/contests/1030/461/problem)
-* [INCREASING DECREASING SEQUENCE](./Fundamentals/Increasing_Decreasing.cpp): (https://hack.codingblocks.com/app/practice/1/1314/problem)
+* [INCREASING DECREASING SEQUENCE](./Fundamentals/Increasing_Decreasing.cpp): [HACKERBLOCKS LINK](https://hack.codingblocks.com/app/practice/1/1314/problem)
 * [REVISING QUADRATIC EQUATIONS](./Fundamentals/Revising_Quadratic_Equations.cpp): [HACKERBLOCKS LINK](https://hack.codingblocks.com/app/practice/3/1320/problem)
 
 
