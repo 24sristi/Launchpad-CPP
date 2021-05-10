@@ -17,7 +17,22 @@ I have added all the c++ codes in sequence acoording to various resources like c
 
 ### PATTERNS IN C++
 * [FIBONACCI PATTERN(PATTERN 4)](./Patterns/Fibonacci_Pattern_Pattern4.cpp)
-* 
+* [MANMOHAN LOVES PATTERNS - I](./Patterns/Manmohan_Loves_Patterns1.cpp)
+* [MANMOHAN LOVES PATTERNS - II](./Patterns/Manmohan_Loves_Patterns2.cpp)
+* [PATTERN MOUNTAIN](./Patterns/Patterns_Mountain.cpp)
+* [PATTERN WITH ZEROS](./Patterns/Pattern_with_Zeroes.cpp)
+* [PATTERN TRIANGLE](./Patterns/Pattern_triangle.cpp)
+* [PATTERN DOUBLESIDEDARROW](./Patterns/Pattern_DoubleSidedArrow.cpp)
+* [卐 GANESHA'S PATTERN](./Patterns/Ganesha_Pattern.cpp)
+* [HOLLOW DIAMOND PATTERN(PATTERN 6)](./Patterns/Hollow_Diamond_Pattern.cpp)
+* [HOLLOW RHOMBUS PATTERN](./Patterns/Hollow_Rhombus_Pattern.cpp)
+* [PASCAL TRIANGLE 1](./Patterns/Pascal_Triangle_1.cpp)
+* [PATTERN NUMBERS & STARS - 1](./Patterns/Pascal_Number_&_Stars_1.cpp)
+* [PATTERN NUMBERS & STARS - 2](./Patterns/Pascal_Number_&_Stars_2.cpp)
+
+
+
+
 
 
 
