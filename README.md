@@ -67,7 +67,38 @@ I have added all the c++ codes in sequence acoording to various resources like c
 * [RAINWATER HARVESTING](./Arrays/Rainwater_Harvesting.cpp)
 * [MAXIMUM LENGTH BITONIC SUBARRAY](./Arrays/Max_Length_Bitonic_Subarrays.cpp)
 
+### 2-D ARRAYS IN C++
+* [WAVE PRINT(ROW-WISE)](./2-D Arrays/WavePrint_rowwise.cpp)
+* [WAVE PRINT(COLUMN-WISE)](./2-D Arrays/Wave_Print_ColWise.cpp)
+* [SPIRAL PRINT(CLOCKWISE)](./2-D Arrays/SpiralPrint.cpp)
+* [SPIRAL PRINT(ANTI-CLOCKWISE)](./2-D Arrays/SpiralPrint_anticlockwise.cpp)
+* [PIYUSH AND MAGICAL PARK](./2-D Arrays/Piyush_And_magical_park.cpp)
+* [ROTATE IMAGE(CLOCKWISE)](./2-D Arrays/Rotate_image_clockwise.cpp)
+* [ROTATE IMAGE(ANTI-CLOCKWISE)](./2-D Arrays/Rotate_image_anticlockwise.cpp)
+* [MATRIX SEARCH](./2-D Arrays/Matrix_Search.cpp)
+* [READ A LIST OF STRINGS](./2-D Arrays/Read_list_of_strings.cpp)
+* [MATRIX MULTIPLICATION](./2-D Arrays/Matrix_multiplication.cpp)
+* [SUM OF ALL SUBMATRIX FROM A GIVEN MATRIX - BRUTEFORCE (O(N6))](./2-D Arrays/sum_of_all_submatrix_1.cpp)
+* [SUM OF ALL SUBMATRIX FROM A GIVEN MATRIX - USING PERMUTATIONS (O(N2))](./2-D Arrays/sum_of_all_submatrix_2.cpp)
+* [SUBMATRIX SUM QUERIES](./2-D Arrays/submatrix_Sum_queries.cpp)
 
+### CHAR ARRAYS AND STRING IN C++
+* [IS PALINDROME?](./Character Arrays and Strings/Is_Palindrome.cpp)
+* [STRING REMOVE CONSECUTIVE DUPLICATES](./Character Arrays and Strings/Remove_Duplicates.cpp)
+* [LARGEST STRING](./Character Arrays and Strings/Largest_String.cpp)
+* [STRING STL](./Character Arrays and Strings/String_STL.cpp)
+* [FORM BIGGEST NUMBER](./Character Arrays and Strings/Form_Biggest_Number.cpp)
+* [STRING TOKENISATION - BY STL](./Character Arrays and Strings/String_Tokenisation_stl.cpp)
+* [STRING TOKENISATION - DESIGNING STRTOK() FUNCTION](./Character Arrays and Strings/Design_String_Tokenisation.cpp)
+* [SORT THE STRINGS CHALLENGE](./Character Arrays and Strings/Sort_the_strings.cpp)
+* [CHEWBACCA AND NUMBER](./Character Arrays and Strings/Chewbacca_And_numbers.cpp)
+* [STRINGS: DIFFERENCE IN ASCII CODES](./Character Arrays and Strings/String_Diff_in_ascii.cpp)
+* [ULTRA FAST MATHEMATICIAN](./Character Arrays and Strings/Ultra_Fast_Mathematician.cpp)
+* [STRIG - MAX FREQUENCY CHARACTER](./Character Arrays and Strings/Max_Freq_char.cpp)
+* [STRING COMPRESSION](./Character Arrays and Strings/String_Compression.cpp)
+* [CanYouReadThis?](./Character Arrays and Strings/CanYouReadThis.cpp)
+* [CHARACTER TYPE](./Character Arrays and Strings/Char_Type.cpp)
+* [LOWER UPPER](./Character Arrays and Strings/Lower_Upper.cpp)
 
 
 
