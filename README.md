@@ -69,6 +69,7 @@ I have added all the c++ codes in sequence acoording to various resources like c
 
 ### 2-D ARRAYS IN C++
 * [WAVE PRINT(ROW-WISE)](./2-D Arrays/WavePrint_rowwise.cpp)
+* [MAXIMUM LENGTH BITONIC SUBARRAY](./Arrays/Max_Length_Bitonic_Subarrays.cpp)
 * [WAVE PRINT(COLUMN-WISE)](./2-D Arrays/Wave_Print_ColWise.cpp)
 * [SPIRAL PRINT(CLOCKWISE)](./2-D Arrays/SpiralPrint.cpp)
 * [SPIRAL PRINT(ANTI-CLOCKWISE)](./2-D Arrays/SpiralPrint_anticlockwise.cpp)
