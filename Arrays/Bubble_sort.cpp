@@ -19,7 +19,7 @@ int main() {
     {
         cin>>a[i];
     }
-    selectionSort(a,n);
+    BubbleSort(a,n);
     for(int i=0;i<n;i++)
     {
         cout<<a[i];

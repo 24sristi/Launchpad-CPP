@@ -22,5 +22,5 @@ int hexadecimaltoDecimal(string s)
 int main() {
     string n;
     cin>>n;
-    cout<<BinarytoDecimal(n);
+    cout<<hexadecimaltoDecimal(n);
 }
