@@ -96,9 +96,11 @@ I have added all the c++ codes in sequence acoording to various resources like c
 * [ULTRA FAST MATHEMATICIAN](./Character_Arrays_and_Strings/Ultra_Fast_Mathematician.cpp)
 * [STRIG - MAX FREQUENCY CHARACTER](./Character_Arrays_and_Strings/Max_Freq_char.cpp)
 * [STRING COMPRESSION](./Character_Arrays_and_Strings/String_Compression.cpp)
+* [SanketAndStrings](./Character_Arrays_and_Strings/SanketAndStrings.cpp)
 * [CanYouReadThis?](./Character_Arrays_and_Strings/CanYouReadThis.cpp)
 * [CHARACTER TYPE](./Character_Arrays_and_Strings/Char_Type.cpp)
 * [LOWER UPPER](./Character_Arrays_and_Strings/Lower_Upper.cpp)
+* [FINDING CB NUMBERS](./Character_Arrays_and_Strings/Find_CB_Numbers.cpp)
 
 ### ALGORITHMS STL IN C++
 

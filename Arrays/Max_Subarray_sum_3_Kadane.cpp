@@ -22,5 +22,5 @@ int main() {
     {
         cin>>a[i];
     }
-    cout<<MaxSubarraySum(a,n);
+    cout<<MaxsubarraySum(a,n);
 }
