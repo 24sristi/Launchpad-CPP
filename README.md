@@ -1,5 +1,6 @@
 # Launchpad-CPP
 I have added all the c++ codes in sequence acoording to various resources like coding blocks, apna college
+Problem statement is being added as comments in the code starting
 
 ## CONTENT
 
@@ -103,6 +104,13 @@ I have added all the c++ codes in sequence acoording to various resources like c
 * [FINDING CB NUMBERS](./Character_Arrays_and_Strings/Find_CB_Numbers.cpp)
 
 ### ALGORITHMS STL IN C++
+* [FIND FUNCTION STL](./Algorithms_STL/Find_Function.cpp)
+* [BINARY SEARCH, UPPER BOUND, LOWER BOUND STL](./Algorithms_STL/Binary_Search_STL.cpp)
+* [SORT STL FUNCTION AND COMPARATORS](./Algorithms_STL/Sort_Function.cpp)
+* [INDIAN COIN CHANGE(EXAMPLE OF USING LOWERBOUND)](./Algorithms_STL/Indian_Coin_Change.cpp)
+* [ROTATE AND NEXT PERMUTATION STL](./Algorithms_STL/Next_Permutation.cpp)
+* [NEXT PERMUTATION PROBLEM](./Algorithms_STL/Next_Permu.cpp)
+* [ACTIVITY SELECTION PROBLEMS](./Algorithms_STL/Activity_Selection.cpp)
 
 
 
