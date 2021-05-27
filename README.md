@@ -112,6 +112,10 @@ Problem statement is being added as comments in the code starting
 * [NEXT PERMUTATION PROBLEM](./Algorithms_STL/Next_Permu.cpp)
 * [ACTIVITY SELECTION PROBLEMS](./Algorithms_STL/Activity_Selection.cpp)
 
+### DIVIDE AND CONQUER (SEARCHING PROBLEMS)
+
+* [BINARY SEARCH FIRST AND LAST OCCURRENCE](./Divide_and_Conquer/Binary_first_last_occ.cpp)
+
 
 
 
