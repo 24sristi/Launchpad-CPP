@@ -67,6 +67,7 @@ Problem statement is being added as comments in the code starting
 * [SUM OF 2 ARRAYS](./Arrays/Sum_Of_2_Arrays.cpp)
 * [RAINWATER HARVESTING](./Arrays/Rainwater_Harvesting.cpp)
 * [MAXIMUM LENGTH BITONIC SUBARRAY](./Arrays/Max_Length_Bitonic_Subarrays.cpp)
+* [REVERSE ARRAY](./Arrays/ReverseArray.cpp) : Love Babbar 450 question
 
 ### 2-D ARRAYS IN C++
 * [WAVE PRINT(ROW-WISE)](./2D_Arrays/WavePrint_rowwise.cpp)
