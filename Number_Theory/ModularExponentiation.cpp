@@ -1,7 +1,7 @@
 #include<bits/stdc++.h>
 using namespace std;
 
-int fastexponent(int a, int n) // takes O(logn) time
+int modularexponent(int a, int n, int b) // takes O(logn) time
 {
     int ans=1;
     while(n>0)
@@ -10,24 +10,20 @@ int fastexponent(int a, int n) // takes O(logn) time
         n=n>>1;
         if(last_digit==1)
         {
-            ans*=a;
+            ans=ans*a%b;
         }
-        a*=a;
+        a=a*a%b;
     }
     return ans;
 }
 
 int main()
 {
-    int t;
-    cin>>t;
-    while(t--)
-    {
+
         //take input
-        int a,n;
-        cin>>a>>n;
+        int a,n,b;
+        cin>>a>>n>>b;
 
         //print output
-        cout<<fastexponent(a,n)<<endl;
-    }
+        cout<<modularexponent(a,n,b)<<endl;
 }

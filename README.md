@@ -67,7 +67,11 @@ Problem statement is being added as comments in the code starting
 * [SUM OF 2 ARRAYS](./Arrays/Sum_Of_2_Arrays.cpp)
 * [RAINWATER HARVESTING](./Arrays/Rainwater_Harvesting.cpp)
 * [MAXIMUM LENGTH BITONIC SUBARRAY](./Arrays/Max_Length_Bitonic_Subarrays.cpp)
-* [REVERSE ARRAY](./Arrays/ReverseArray.cpp) : Love Babbar 450 question
+* [REVERSE ARRAY](./Arrays/ReverseArray.cpp) : Love Babbar 450
+* [KTH SMALLEST ARRAY](./Arrays/KthSmallestArray.cpp) : Love Babbar 450
+* [Sort AN ARRAY OF 0s, 1s and 2s ](./Arrays/Sort012.cpp) : Love Babbar 450 
+* [MOVE ALL NEGATIVE ELEMENTS TO ONE SIDE OF ARRAY](./Arrays/NegativeToEnd.cpp) : Love Babbar 450
+
 
 ### 2-D ARRAYS IN C++
 * [WAVE PRINT(ROW-WISE)](./2D_Arrays/WavePrint_rowwise.cpp)
@@ -116,7 +120,7 @@ Problem statement is being added as comments in the code starting
 ### DIVIDE AND CONQUER (SEARCHING PROBLEMS)
 
 * [BINARY SEARCH FIRST AND LAST OCCURRENCE](./Divide_and_Conquer/Binary_first_last_occ.cpp)
-
+* 
 
 
 
