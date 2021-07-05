@@ -25,11 +25,11 @@ int main() {
     int n;
     cin>>n;
     int a[n];
-    int k;
-    cin>>k;
     for (int i=0;i<n;i++)
     {
         cin>>a[i];
     }
+    int k;
+    cin>>k;
     tripletSum(a,n,k);
 }

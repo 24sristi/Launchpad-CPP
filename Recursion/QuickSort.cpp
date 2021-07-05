@@ -6,7 +6,7 @@ int partition(int *a, int s, int e)
     int i=s-1;
     int j=s;
     int pivot =a[e];
-    for(;j<e-1;j++)
+    for(;j<=e-1;)
     {
         if(a[j]<=pivot)
         {
