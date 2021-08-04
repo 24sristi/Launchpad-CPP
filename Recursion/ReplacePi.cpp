@@ -33,8 +33,13 @@ void ReplacePi(char s[], int i)
 
 int main()
 {
+    int t;
+    cin>>t;
+    while(t--)
+    {
     char a[1000];
     cin>>a;
     ReplacePi(a,0);
-    cout<<a;   
+    cout<<a<<endl;   
+    }
 }

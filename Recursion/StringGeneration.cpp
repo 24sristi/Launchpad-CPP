@@ -24,7 +24,7 @@ void GenerateStrings(char *in, char *out, int i, int j)
         {
             char ch = no+ 'A'-1;
             out[j]=ch;
-            GenerateStrings(in,out,i+2,j+2);
+            GenerateStrings(in,out,i+2,j+1);
         }
     }
     return;
